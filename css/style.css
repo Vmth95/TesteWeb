@@ -1,0 +1,55 @@
+/* #pageForm{
+    background-color: #f0f0f0;
+} */
+
+#topo{
+    text-align: center;
+}
+
+h2{
+    background-color: #005eff;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.iconSystem{
+    width: 30px;
+}
+
+.boxSystem{
+    width: 100px;
+    height: 80px;
+}
+
+.alignRow{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 20%, 20%, 60%;
+}
+
+.colorCadastro{
+    background-color: #d7d7d7;
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.colorBack{
+    background-color: #d7d7d7;
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.alignProduct{
+    display: flex;
+    align-items: center; 
+}
+
+.btnAlign{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.boxBtn{
+    margin: 1rem;
+}
